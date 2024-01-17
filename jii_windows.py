@@ -152,7 +152,7 @@ result_entry.grid(row=3, column=1, padx=10, pady=10)
 
 for i in range(2):
     root.columnconfigure(i, weight=1)
-    # root.rowconfigure(i, weight=1)
+    
 
 
 
